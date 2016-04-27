@@ -1,1 +1,1 @@
-### See https://github.com/Plailect/Guide/wiki
+### Clique aqui: https://github.com/Haagenti/Guide/wiki
